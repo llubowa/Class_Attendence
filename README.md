@@ -1,5 +1,2 @@
 # Class_Attendence
-The project aims at predicting if the enrolled student will attend the fittness classes or not.
-A body fitness institution wants to raise on the enrollment count after noticing that a good number of enrolled students do not attend the classes.
-A model is to predict the count of enrolled students who will not attend classes and this gives the additional number to be enrolled.
-This project also compares the performance of two predictors chosen for this project.
+This predictive model determines whether enrolled students will attend fitness classes at a body fitness institution. The project addresses the institution's goal of increasing attendance by identifying students likely to skip classes. The model predicts the count of enrolled students who may not attend, aiding in calculating the additional enrollment needed to meet attendance targets. Additionally, the project involves comparing the performance of two selected predictors, enabling data-driven decisions to enhance class participation and optimize enrollment strategies.
